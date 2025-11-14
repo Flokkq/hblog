@@ -1,3 +1,5 @@
+module Main (main) where
+
 import Html
 
 main :: IO ()
